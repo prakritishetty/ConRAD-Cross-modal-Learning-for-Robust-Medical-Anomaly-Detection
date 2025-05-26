@@ -19,6 +19,7 @@ proving detection in medical contexts. Our findings provide
 ing anomaly detection through VLMs, particularly in com
 plex, domain-adapted tasks where traditional supervised
  approaches may falter.
+ 
 ---
 
 ## **Dataset**
